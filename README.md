@@ -30,9 +30,30 @@ A curated list of awesome Integrated Development Environments.
 
 ## IntelliJ IDEA
 
+*Basic information*
+
+* Home Page: https://www.jetbrains.com/idea/
+* Free or not: Community version is Free
+
+*Language Support and setup*
+
+* Java
+* Golang
 
 ## Eclipse
 
+*Basic information*
+
+* Home Page: https://eclipse.org/
+* Free or not: Free
+
+*Language Support and setup*
+
+* C/C++
+* Java
+* Python
+    * [Setting up Eclipse for Python - Step by step](https://www.youtube.com/watch?v=vHRRiBHI3to)
+    *
 
 ## PyCharm
 
@@ -69,5 +90,6 @@ A curated list of awesome Integrated Development Environments.
 * C++
     * [C/C++ for VS Code (Preview)](https://code.visualstudio.com/docs/languages/cpp)
 * Go
+    * [Go for Visual Studio Code](https://github.com/Microsoft/vscode-go)
 * Python
     * [Python on Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
